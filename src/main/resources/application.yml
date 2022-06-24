@@ -1,0 +1,7 @@
+spring:
+  port: 8080
+
+server:
+  error:
+    include-stacktrace: never
+
